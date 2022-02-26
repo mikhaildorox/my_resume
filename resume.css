@@ -6,3 +6,9 @@
 li {
   list-style: none;
 }
+
+.container {
+  width: 500px;
+  margin: 35px 50px;
+  border-bottom: 1px solid black;
+}
