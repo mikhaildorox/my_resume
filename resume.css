@@ -3,12 +3,28 @@
   margin: 0;
 }
 
+body {
+  margin-top: 50px;
+	background: linear-gradient(90deg, #b9deed, #efefef);
+}
+
+img {
+  width: 200px;
+  margin: 5px auto;
+  display: block;
+  border-radius: 50%;
+}
+
 li {
   list-style: none;
 }
 
 .container {
   width: 500px;
-  margin: 35px 50px;
-  border-bottom: 1px solid black;
+  margin: 10px auto;
+}
+
+.foot {
+  text-align: center;
+  font-style: italic;
 }
